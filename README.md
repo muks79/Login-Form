@@ -1,7 +1,7 @@
 Simple Login Form with HTML, CSS, PHP, and MySQL
 
 🔐 Introduction:
-Welcome to my simple login form project! This web application is designed to provide a secure and user-friendly login experience using HTML, CSS, PHP, and a MySQL database. It's a fundamental yet robust implementation for user authentication.
+Welcome to my simple login form project! This web application is designed to provide a secure and user-friendly login experience using HTML, CSS, PHP, and a MySQL database.
 🌐 Technologies Used:
 
     HTML: Responsible for structuring the login form, capturing user input.
