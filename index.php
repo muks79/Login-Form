@@ -1,4 +1,4 @@
-<?php
+ <?php
     $insert="false";
 if(isset($_POST["name"])){
 $server="localhost";
